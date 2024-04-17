@@ -20,4 +20,4 @@ detalhes do tópico 2
 
 - Imagem do Github
 
-![Descrição Imagem](https://silvrblack.s3.amazonaws.com?uploads?dbe54ce7-777f-4997-9ea3-7a10b738e3a8/Github%20header.png)
+![Descrição Imagem](https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2016/08/15-Repositórios-no-Github-para-Cientistas-de-Dados.png?resize=1024%2C538&ssl=1)
